@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @norawarschewski
+- 👀 I’m interested in generative design, machine learning and design research
+- 🌱 I’m currently learning Processing and p5js
+- 💞️ I’m looking to collaborate on anything design related
+- 📫 How to reach me @nora.warschewski on Instagram
