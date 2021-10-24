@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @norawarschewski
-- 👀 I’m interested in generative design, typography, and design research
-- 🌱 I’m currently learning Processing and p5js
-- 💞️ I’m looking to collaborate on anything design related
-- 📫 How to reach me @nora.warschewski on Instagram
+- 👀 Henlo, I’m @norawarschewski
+- 💞 I’m interested in typography, generative design, and design research
+- 🔮 I’m currently learning Processing and researching generative type design
+- 🦄 Reach me on Instagram: @nora.warschewski
