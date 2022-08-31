@@ -4,6 +4,7 @@
 - 🦄 Reach me on Instagram: @nora.warschewski
 
 ## GitHub Projects
-⮑ [Algorithm-Driven Design Projects](https://norawarschewski.github.io/algorithm-driven-projects)
-⮑ [Automation in Typesetting](https://norawarschewski.github.io/automation-in-typesetting/)
-⮑ [Processing Sketchbook 2020-'22](https://github.com/norawarschewski/processing-sketchbook/)
+⮑ [Algorithm-Driven Design Projects](https://norawarschewski.github.io/algorithm-driven-projects)  
+⮑ [Automation in Typesetting](https://norawarschewski.github.io/automation-in-typesetting/)  
+⮑ [Processing Sketchbook 2020-'22](https://github.com/norawarschewski/processing-sketchbook/)  
+
