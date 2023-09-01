@@ -6,6 +6,6 @@
 ## GitHub Projects
 ➽ [Algorithm-Driven Design Projects](https://norawarschewski.github.io/algorithm-driven-projects)  
 ➽ [Processing Sketchbook 2020-'22](https://github.com/norawarschewski/processing-sketchbook/)  
-➽ [Indesx of Generative Type](https://norawarschewski.github.io/generative-type/)  
+➽ [Index of Generative Type](https://norawarschewski.github.io/generative-type/)  
 ➽ [Type West Revival Website](https://typewest.letterformarchive.org/2023/revivals/)  
 
